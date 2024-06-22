@@ -1,0 +1,13 @@
+# folium==0.2.1
+gurobipy
+# imgaug==0.2.5
+networkx==2.5
+numpy==1.23
+wandb
+stable-baselines3[extra]
+#tensorflow==2.12.0
+#tf-estimator-nightly==2.8.0.dev2021122109
+torch==2.0.0 -f https://pytorch-geometric.com/whl/torch-2.0.0%2Bcu118.html
+torch-geometric -f https://data.pyg.org/whl/torch-1.12.0+cu113.html
+torch-scatter -f https://data.pyg.org/whl/torch-1.12.0+cu113.html
+torch-sparse -f https://data.pyg.org/whl/torch-1.12.0+cu113.html
